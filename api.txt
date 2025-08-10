@@ -140,3 +140,4 @@ https://offset-palmer-sell-assumes.trycloudflare.com
 https://recommended-scotland-configured-adoption.trycloudflare.com
 https://nat-flashing-hook-tons.trycloudflare.com
 https://federation-full-done-publication.trycloudflare.com
+https://nd-fortune-retrieval-raw.trycloudflare.com
